@@ -1,0 +1,5 @@
+method,dice,miou,prec
+MEGANet,0.8347,0.7812,80.15
+CASCADE,0.8093,0.7567,77.28
+TransNetR,0.7961,0.7431,75.82
+Ensemble,0.8589,0.8024,82.53
